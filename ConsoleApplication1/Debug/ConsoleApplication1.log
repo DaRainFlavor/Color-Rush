@@ -1,0 +1,124 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AssetManage.cpp
+  Game.cpp
+  GameOverState.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(35,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(35,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(40,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(40,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(45,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameOverState.cpp(45,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameState.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(21,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(21,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(41,91): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(41,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(217,131): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(217,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(217,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(223,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(223,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\GameState.cpp(223,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Grid.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(40,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(41,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(42,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(42,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(78,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(85,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(92,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(241,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(246,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(425,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(426,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(427,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(427,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(461,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(468,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\Grid.cpp(475,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  InputManager.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\InputManager.cpp(9,134): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\InputManager.cpp(9,102): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\InputManager.cpp(9,74): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\InputManager.cpp(9,50): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Leaderboard.cpp
+  main.cpp
+  MainMenuState.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(33,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(38,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(38,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(41,156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(42,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(42,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(46,165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(50,171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\MainMenuState.cpp(114,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  RankingState.cpp
+  ReplayState.cpp
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(58,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(153,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(154,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(155,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(155,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(189,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(196,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(203,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(217,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(217,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(219,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Downloads\Color Rush\ConsoleApplication1\ReplayState.cpp(219,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RulesState.cpp
+  SplashState.cpp
+  StateMachine.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Lenovo\Downloads\Color Rush\Debug\Color Rush VS.exe
